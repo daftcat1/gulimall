@@ -32,6 +32,7 @@
         <module>gulimall-order</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
+        <module>gulimall-common</module>
     </modules>
 
 
